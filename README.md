@@ -8,5 +8,5 @@ A python program that generates programming quotes and jokes.
 - `contributor-2`: CORDIER Morgane INT1
 
 ## Fork urls
-- `contributor-1`: [quotes-laura-int1](https://github.com/Im0ka/quotes-poilane-L)
+- `contributor-1`: [quotes-laura-int1](https://github.com/Im0ka/quotes-poilane-int1)
 - `contributor-2`: [quotes-morgane-int1](https://github.com/MorangeC/quotes-cordier-M)
