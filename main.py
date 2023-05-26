@@ -24,6 +24,11 @@ def main():
         elif choice == "exit":
             print("Good bye...")
             break
+        elif choice == "4":
+            add_quotes(quotes, "quotes.txt")
+	  elif choice == "5" 
+    		count = int(input("Enter the number of quotes to display: "))
+    		display_quotes(quotes, count)
         else:
             print("Invalid input")
 
